@@ -19,14 +19,14 @@ Run the game:
 python math_duel.py
 
 🛠️ Example Gameplay
-Current number: 16
-Player 1's turn (MAX)
-Allowed moves: [1, 2, 3]
+*Current number: 16
+*Player 1's turn (MAX)
+*Allowed moves: [1, 2, 3]
 
 👉 Player chooses 3
-Current number: 13
-AI's turn (MIN)
-AI chooses 1
+ *Current number: 13
+ *AI's turn (MIN)
+ *AI chooses 1
 
 📂 File Structure
 math-duel-minimax/
@@ -35,8 +35,8 @@ math-duel-minimax/
 │── requirements.txt    # Python dependencies
 
 📦 Requirements
-Python 3.x
-No external libraries required (only math and time from Python standard library).
+*Python 3.x
+*No external libraries required (only math and time from Python standard library).
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
